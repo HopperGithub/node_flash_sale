@@ -2,7 +2,6 @@
   "name": "node_flash_sale",
   "version": "0.0.1",
   "description": "A micro flash sale system with Node.js, Redis, Kafka, MySQL, Docker",
-  "main": "index.js",
   "scripts": {
     "install_dep": "sh scripts/install.sh",
     "start": "sh scripts/start.sh",
