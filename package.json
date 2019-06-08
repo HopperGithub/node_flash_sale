@@ -1,0 +1,32 @@
+{
+  "name": "node_flash_sale",
+  "version": "0.0.1",
+  "description": "A micro flash sale system with Node.js, Redis, Kafka, MySQL, Docker",
+  "main": "index.js",
+  "scripts": {
+    "install_dep": "sh scripts/install.sh",
+    "start": "sh scripts/start.sh",
+    "build": "sh scripts/online.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HopperGithub/node_flash_sale.git"
+  },
+  "keywords": [
+    "Node.js",
+    "flash",
+    "sale",
+    "flash_sale",
+    "Nest",
+    "Redis",
+    "Kafka",
+    "MySQL",
+    "Docker"
+  ],
+  "author": "Hopper Sun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HopperGithub/node_flash_sale/issues"
+  },
+  "homepage": "https://github.com/HopperGithub/node_flash_sale#readme"
+}
